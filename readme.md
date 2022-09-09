@@ -1,4 +1,4 @@
-![web scraping with python](https://github.com/rajat4665/web-scraping-with-python/blob/master/WEB%20SCRAPING.jpg)
+
 <br>
 <span style="text-decoration: underline;"><strong>Introduction:</strong></span>
 
@@ -34,4 +34,3 @@
 	<li> CLI scraping tool is underdevelopment only beta version  is available now </li>
 </ul>
 ----------------------------------------------------------------------------------------
-<h1>HAPPY CODING</h1>
